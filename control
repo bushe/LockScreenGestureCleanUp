@@ -1,0 +1,8 @@
+Package: com.bushe.LockScreenGestureCleanUp
+Name: LockScreenGestureCleanUp
+Depends: mobilesubstrate, firmware (>= 7.1)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Prevents useless guesture reconizers in SBLockScreenView
+Author: Bushe
+Section: Tweaks
